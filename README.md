@@ -72,7 +72,7 @@ Main table: currency_exchange
 
 4./* Как се стартира проекта */
     1. cd currency_exchange
-    2. composer update
+    2. composer update или composer update --ignore-platform-reqs
     3. composer install
     4. mysql -u root -p
     5. CREATE DATABASE dashboards;
