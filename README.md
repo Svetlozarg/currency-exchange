@@ -57,15 +57,15 @@ Login и Register форми с валидация създадени чрез l
    - чарт с дата от openexchangerates API
 
 3./* MySQL информация */
-Main table: currency_exchange
-    users table:
+- Main table: currency_exchange
+  - users table:
         - съдържа датата за всички регистрирани потребители
         - по колони
             - име
             - имейл
             - парола
             - токен за запомняне при повторно влизане в сайта
-    dashboards table
+ - dashboards table
         - съдържа цялата дата, вземата от API
         - по колони
             - currency -> името на валутата
