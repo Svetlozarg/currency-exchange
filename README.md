@@ -6,10 +6,10 @@
 
 <p>Съдържание</p>
 <ul>
-    <li>1./* Изисквания */</li>
-    <li>2./* Информация за проекта */</li>
-    <li>3./* MySQL информация */</li>
-    <li>4./* Как се стартира проекта */</li>
+    <li>/* Изисквания */</li>
+    <li>/* Информация за проекта */</li>
+    <li>/* MySQL информация */</li>
+    <li>/* Как се стартира проекта */</li>
 </ul>
     
 <p><============================================================================></p>
@@ -74,12 +74,12 @@ Main table: currency_exchange
 
 <p>4./* Как се стартира проекта */</p>
 <ul>
-    <li>1. cd currency_exchange</li>
-    <li>2. composer update или composer update --ignore-platform-reqs</li>
-    <li>3. composer install</li>
-    <li>4. mysql -u root -p</li>
-    <li>5. CREATE DATABASE dashboards;</li>
-    <li>6. php artisan migrate</li>
-    <li>7. php artisan config:clear</li>
-    <li>8. php artisan serve</li>
+    <li>cd currency_exchange</li>
+    <li>composer update или composer update --ignore-platform-reqs</li>
+    <li>composer install</li>
+    <li>mysql -u root -p</li>
+    <li>CREATE DATABASE dashboards;</li>
+    <li>php artisan migrate</li>
+    <li>php artisan config:clear</li>
+    <li>php artisan serve</li>
 </ul>
