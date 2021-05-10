@@ -75,8 +75,7 @@ Login и Register форми с валидация създадени чрез l
 <p>4./* Как се стартира проекта */</p>
 <ul>
     <li>cd currency_exchange</li>
-    <li>composer update или composer update --ignore-platform-reqs</li>
-    <li>composer install</li>
+    <li>composer install или composer install --ignore-platform-reqs</li>
     <li>mysql -u root -p</li>
     <li>CREATE DATABASE dashboards;</li>
     <li>php artisan migrate</li>
