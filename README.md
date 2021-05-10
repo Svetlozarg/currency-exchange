@@ -70,12 +70,14 @@ Main table: currency_exchange
             - code -> кода на валутата
             - rate -> текущия курс
 
-4./* Как се стартира проекта */
-    1. cd currency_exchange
-    2. composer update или composer update --ignore-platform-reqs
-    3. composer install
-    4. mysql -u root -p
-    5. CREATE DATABASE dashboards;
-    6. php artisan migrate
-    7. php artisan config:clear
-    8. php artisan serve
+<p>4./* Как се стартира проекта */</p>
+<ul>
+    <li>1. cd currency_exchange</li>
+    <li>2. composer update или composer update --ignore-platform-reqs</li>
+    <li>3. composer install</li>
+    <li>4. mysql -u root -p</li>
+    <li>5. CREATE DATABASE dashboards;</li>
+    <li>6. php artisan migrate</li>
+    <li>7. php artisan config:clear</li>
+    <li>8. php artisan serve</li>
+</ul>
