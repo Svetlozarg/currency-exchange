@@ -78,7 +78,7 @@ Login и Register форми с валидация създадени чрез l
     <li>composer install или composer install --ignore-platform-reqs</li>
     <li>npm install</li>
     <li>mysql -u root -p</li>
-    <li>CREATE DATABASE dashboards;</li>
+    <li>CREATE DATABASE currency_exchange;</li>
     <li>php artisan migrate</li>
     <li>php artisan config:clear</li>
     <li>php artisan serve</li>
